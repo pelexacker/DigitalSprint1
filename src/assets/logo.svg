@@ -1,0 +1,8 @@
+<svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .digitalni { font: 900 24px 'Outfit', sans-serif; fill: #C8F52C; letter-spacing: 0.1em; }
+    .sprint { font: 900 48px 'Outfit', sans-serif; fill: #0D1612; }
+  </style>
+  <text x="2" y="25" class="digitalni">DIGITALNI</text>
+  <text x="0" y="70" class="sprint">SPRINT</text>
+</svg>
